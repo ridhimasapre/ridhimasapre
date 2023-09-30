@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ridhimasapre
-- 👀 I’m interested in Airtificial Intelligence
-- 🌱 I’m currently learning Python programing.
+- 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on GitHub Project
 - 📫 How to reach me ridhimasapre74@gmail.com
 
